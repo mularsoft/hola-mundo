@@ -1,4 +1,5 @@
 # hola-mundo
-#Hola-mundo Mi primer repositorio
+#Hola-mundo
+Mi primer repositorio
 
 I love 🍕, 🐶, :programming:
